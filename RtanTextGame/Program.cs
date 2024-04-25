@@ -13,7 +13,7 @@ namespace RtanTextGame
             public int atk = 10; //공격력
             public int def = 5; //방어력
             public int life = 100; //체력
-            public int gold = 10000; //골드
+            public int gold = 2000; //골드
             public string[] playerItem = new string[] { };//플레이어가 소지한 장비를 저장
         }
 
