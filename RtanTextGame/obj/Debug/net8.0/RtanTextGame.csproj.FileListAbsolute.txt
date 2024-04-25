@@ -1,0 +1,14 @@
+D:\C_Project\RtanTextGame\RtanTextGame\bin\Debug\net8.0\RtanTextGame.exe
+D:\C_Project\RtanTextGame\RtanTextGame\bin\Debug\net8.0\RtanTextGame.deps.json
+D:\C_Project\RtanTextGame\RtanTextGame\bin\Debug\net8.0\RtanTextGame.runtimeconfig.json
+D:\C_Project\RtanTextGame\RtanTextGame\bin\Debug\net8.0\RtanTextGame.dll
+D:\C_Project\RtanTextGame\RtanTextGame\bin\Debug\net8.0\RtanTextGame.pdb
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.AssemblyInfoInputs.cache
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.AssemblyInfo.cs
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.csproj.CoreCompileInputs.cache
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.dll
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\refint\RtanTextGame.dll
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.pdb
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\RtanTextGame.genruntimeconfig.cache
+D:\C_Project\RtanTextGame\RtanTextGame\obj\Debug\net8.0\ref\RtanTextGame.dll
